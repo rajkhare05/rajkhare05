@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Raj
 
-<!--
-**rajkhare05/rajkhare05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a discord bot 'dark memer' and a media player
+- 🌱 I’m currently learning unity and android
+- 👯 I’m looking to collaborate on media player application
+- 🤔 I’m looking for help with UI
+- 💬 Ask me about python
+- 📫 How to reach me: [gmail][gmail] **|**
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love games ❤️❤️
+[gmail] : 06rajkhare04@gmail.com
