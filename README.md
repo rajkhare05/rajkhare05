@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on media player application
 - 🤔 I’m looking for help with UI
 - 💬 Ask me about python
-- 📫 How to reach me: [gmail] [gmail] **|**
+- 📫 How to reach me: [gmail][gmail] **|**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love games ❤️❤️
 
