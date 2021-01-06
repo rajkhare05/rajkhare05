@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love games ❤️❤️
 
-[gmail] : 06rajkhare04@gmail.com
+[gmail]: 06rajkhare04@gmail.com
