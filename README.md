@@ -7,3 +7,4 @@
 - 💬 Ask me about python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love games ❤️❤️
+(Next Project: A Media Player)
