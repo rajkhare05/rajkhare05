@@ -8,4 +8,4 @@
 - 😄 Pronouns: he/him
 - ⚡ and yes I love games ❤️❤️
 
-     <a href="https://www.buymeacoffee.com/rajkhare" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/rajkhare"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rajkhare&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
