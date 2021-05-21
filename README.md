@@ -7,5 +7,6 @@
 - 💬 Ask me about python
 - 😄 Pronouns: he/him
 - ⚡ and yes I love games ❤️❤️
-
+<!--
 <a href="https://www.buymeacoffee.com/rajkhare"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rajkhare&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+-->
