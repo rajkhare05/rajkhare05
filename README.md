@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Raj
 
-- 🔭 I’m currently working on [whatsapp automation](https://github.com/rajkhare05/whatsappAutomation)
+- 🔭 I’m currently working on [DarkMemer](https://github.com/rajkhare05/darkmemer)
 - 🌱 I’m currently learning about automation and headless browser
 - 👯 I’m looking to collaborate on python and C projects
 - 🤔 I’m looking for help with front-end
