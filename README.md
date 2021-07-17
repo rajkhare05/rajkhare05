@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [DarkMemer](https://github.com/rajkhare05/darkmemer)
 - 🌱 I’m currently learning about automation and headless browser
-- 👯 I’m looking to collaborate on python and C projects
+- 👯 I’m looking to collaborate on python projects
 - 🤔 I’m looking for help with front-end
 - 💬 Ask me about python
 - 😄 Pronouns: he/him
