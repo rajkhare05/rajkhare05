@@ -18,6 +18,4 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://hackerrank.com/taskmaster0" target="_blank"> <img src="https://github.com/rajkhare05/rajkhare05/blob/main/img/hr2.png" width="42px" height="42px"> </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/raj_khare_05" target="_blank"> <img src="https://github.com/rajkhare05/rajkhare05/blob/main/img/insta.png" width="50px" height="50px"> </a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/rajkhare05"> <img src="https://github.com/rajkhare05/rajkhare05/blob/main/img/codechef.png" width="120px" height="50px"> </a>
