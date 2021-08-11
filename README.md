@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Raj
 
-- 🔭 I’m currently working on तू दु ऐप (जाल)
-<!-- [DarkMemer](https://github.com/rajkhare05/darkmemer) -->
-- 🌱 I’m currently learning about automation and headless browser
+- 🔭 I’m currently working on तू दु ऐप (जाल) <!-- [DarkMemer](https://github.com/rajkhare05/darkmemer) -->
+- 🌱 I’m currently learning CP
 - 👯 I’m looking to collaborate on python projects
 - 🤔 I’m looking for help with front-end
-- 💬 Ask me about python
+- 💬 Ask me about python and c++
 - 😄 Pronouns: he/him
 - ⚡ and yes I love to sleep 😪😆 and play games ❤️💙🖤
 <!--
