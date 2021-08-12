@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Raj
 
-- 🔭 I’m currently working on तू दु ऐप (जाल) <!-- [DarkMemer](https://github.com/rajkhare05/darkmemer) -->
+- 🔭 I’m currently working on ToDoApp <!-- [DarkMemer](https://github.com/rajkhare05/darkmemer) -->
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on python projects
 - 🤔 I’m looking for help with front-end
