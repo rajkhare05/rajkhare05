@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Raj
+### Hi there 👋 I'm Raj
 
 - 🔭 I’m currently working on ToDoApp <!-- [DarkMemer](https://github.com/rajkhare05/darkmemer) -->
 - 🌱 I’m currently learning JS and DSA
