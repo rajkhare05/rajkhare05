@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Raj
 
 - 🔭 I’m currently working on ToDoApp <!-- [DarkMemer](https://github.com/rajkhare05/darkmemer) -->
-- 🌱 I’m currently learning CSS and DSA
+- 🌱 I’m currently learning JS and DSA
 - 👯 I’m looking to collaborate on python projects
 - 🤔 I’m looking for help with front-end
 - 💬 Ask me about python and c++
