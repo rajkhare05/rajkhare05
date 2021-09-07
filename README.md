@@ -6,7 +6,8 @@
 - 🤔 I’m looking for help with front-end
 - 💬 Ask me about python and c++
 - 😄 Pronouns: he/him
-- ⚡ and yes I love to sleep 😪😆 and play games ❤️💙🖤
+- 🎮 and yes I love to play games ❤️💙🖤
+- ⚡ fun fact: I can fix your printer 😉😜
 <!--
 <a href="https://www.buymeacoffee.com/rajkhare"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rajkhare&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 -->
@@ -19,3 +20,6 @@
 <a href="https://hackerrank.com/rajkhare05" target="_blank"> <img src="https://github.com/rajkhare05/rajkhare05/blob/main/img/hr2.png" width="42px" height="42px"> </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/rajkhare05"> <img src="https://github.com/rajkhare05/rajkhare05/blob/main/img/codechef.png" width="120px" height="50px"> </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/rajkhare05"> <img src="https://github.com/rajkhare05/rajkhare05/blob/main/img/linkedin.png" width="42px" height="42px" />
+</a>
