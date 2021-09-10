@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Raj
 
-- 🔭 I’m currently working on [ToDoApp](https://github.com/rajkhare05/toDoApp/tree/dev) <!-- [DarkMemer](https://github.com/rajkhare05/darkmemer) -->
+<!-- - 🔭 I’m currently working on [ToDoApp](https://github.com/rajkhare05/toDoApp/tree/dev) --> <!-- [DarkMemer](https://github.com/rajkhare05/darkmemer) -->
 - 🌱 I’m currently learning JS and DSA
-- 👯 I’m looking to collaborate on python projects
+- 👯 I’m looking to collaborate on python and JS projects
 - 🤔 I’m looking for help with front-end
 - 💬 Ask me about python and c++
 - 😄 Pronouns: he/him
-- 🎮 and yes I love to play games ❤️💙🖤
+- 🎮 Love to play games ❤️💙🖤
 - ⚡ fun fact: I can fix your printer 😉😜
 <!--
 <a href="https://www.buymeacoffee.com/rajkhare"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rajkhare&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
