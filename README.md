@@ -1,19 +1,19 @@
 ### Hi there 👋 I'm Raj
 
 <!-- - 🔭 I’m currently working on [ToDoApp](https://github.com/rajkhare05/toDoApp/tree/dev) --> <!-- [DarkMemer](https://github.com/rajkhare05/darkmemer) -->
-- 🌱 I’m currently learning JS and DSA
+- 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on python and JS projects
 - 🤔 I’m looking for help with front-end
 - 💬 Ask me about python and c++
 - 😄 Pronouns: he/him
 - 🎮 Love to play games ❤️💙🖤
-- ⚡ fun fact: I can fix your printer 😉😜
+<!-- - ⚡ fun fact: I can fix your printer 😉😜 -->
 
 &nbsp;&nbsp;&nbsp;
 <a href="https://hackerrank.com/rajkhare05" target="_blank"> <img src="https://github.com/rajkhare05/rajkhare05/blob/main/img/hr2.png" width="42px" height="42px"> </a>
-&nbsp;&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/rajkhare05"> <img src="https://github.com/rajkhare05/rajkhare05/blob/main/img/linkedin.png" width="42px" height="42px" />
-</a>
+</a> -->
 <!--
 <a href="https://www.buymeacoffee.com/rajkhare"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rajkhare&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 -->
