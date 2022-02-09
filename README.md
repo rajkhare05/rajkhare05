@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Raj
 
 <!-- - 🔭 I’m currently working on [ToDoApp](https://github.com/rajkhare05/toDoApp/tree/dev) --> <!-- [DarkMemer](https://github.com/rajkhare05/darkmemer) -->
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on python and JS projects
+<!-- - 🌱 I’m currently learning DSA -->
+- 👯 I’m looking to collaborate on JS and Dart projects
 - 🤔 I’m looking for help with front-end
 - 💬 Ask me about python and c++
 - 😄 Pronouns: he/him
