@@ -4,7 +4,7 @@
 <!-- - 🌱 I’m currently learning DSA -->
 - 👯 I’m looking to collaborate on JS and Dart projects
 - 🤔 I’m looking for help with front-end
-- 💬 Ask me about python and c++
+- 💬 Ask me about python and JS
 - 😄 Pronouns: he/him
 - 🎮 Love to play games ❤️💙🖤
 <!-- - ⚡ fun fact: I can fix your printer 😉😜 -->
