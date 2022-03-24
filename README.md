@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;&nbsp;
 <a href="https://hackerrank.com/rajkhare05" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1477936468496556035/BhitSnqG_400x400.jpg" width="60px" height="60px"></a> &nbsp;
-<a href="https://www.buymeacoffee.com/rajkhare05"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rajkhare05&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+<a href="https://www.buymeacoffee.com/rajkhare05" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <!-- &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/rajkhare05"> <img src="https://github.com/rajkhare05/rajkhare05/blob/main/img/linkedin.png" width="42px" height="42px" />
 </a> -->
