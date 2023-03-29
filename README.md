@@ -4,7 +4,7 @@
 <!-- - 🌱 I’m currently learning DSA -->
 - 👯 I’m looking to collaborate on JavaScript projects
 - 🤔 I’m looking for help with front-end
-- 💬 Ask me about linux, javascipt and python
+- 💬 Ask me about linux, javascript and python
 - 😄 Pronouns: he/him
 - 🎮 Love to play games ❤️💙🖤
 <!-- - ⚡ fun fact: I can fix your printer 😉😜 -->
